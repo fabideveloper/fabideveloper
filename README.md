@@ -18,7 +18,6 @@
 
 I have developed backend systems and contributed to projects associated with:
 - **[DoBig](https://dobig.com/)**
-- **[Misfits Gaming](https://misfitsgaming.gg/)**
 - **[Simple Bricks](https://simplebricks.com.au/)**
 - **[IX Studios](https://ixstudiodev.com/)**
 ---
