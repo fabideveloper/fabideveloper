@@ -11,18 +11,6 @@
 
 - I specialize in backend scripting, including complex data saving, game logic, and anti-cheat systems.
 - I focus on clean game architecture and building scalable, maintainable codebases.
-- Feel free to ask me about C#, C++, LuaU, Python, and Roblox development.
-- Contact: **fabidevgames@gmail.com** or via Discord.
-
----
-
-### Frameworks & Packages
-
-I regularly utilize a variety of tools and libraries to build robust systems:
-- **Nevermore Engine**
-- **Roact**
-- **Maid**
-- **Promise**
 
 ---
 
