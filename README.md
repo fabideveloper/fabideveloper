@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fabi</h1>
-<h3 align="center">Game developer building immersive experiences on Roblox</h3>
+<h3 align="center">Game developer building immersive experiences on Roblox, Unity and UnrealEngine </h3>
 
 <p align="center">
   Turning creative concepts into engaging worlds. I engineer organized, optimized systems with a heavy focus on backend architecture.
@@ -12,6 +12,15 @@
 - I specialize in backend scripting, including complex data saving, game logic, and anti-cheat systems.
 - I focus on clean game architecture and building scalable, maintainable codebases.
 
+---
+
+### Associated Projects & Clients
+
+I have developed backend systems and contributed to projects associated with:
+- **[DoBig](https://dobig.com/)**
+- **[Misfits Gaming](https://misfitsgaming.gg/)**
+- **[Simple Bricks](https://simplebricks.com.au/)**
+- **[IX Studios](https://ixstudiodev.com/)**
 ---
 
 ### Languages and Tools
