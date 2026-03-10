@@ -1,22 +1,32 @@
-<h1 align="center">Hi 👋, I'm Fabi</h1>
-<h3 align="center">A passionate game developer making cool stuff on Roblox</h3>
+<h1 align="center">Hi, I'm Fabi</h1>
+<h3 align="center">Game developer building immersive experiences on Roblox</h3>
 
 <p align="center">
-  Turning creative concepts into immersive worlds players love to explore. I don't just write code - I engineer organized, optimized systems with passion.
+  Turning creative concepts into engaging worlds. I engineer organized, optimized systems with a heavy focus on backend architecture.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🚀 I mainly focus on **backend scripting** (data saving, game logic, anti-cheat), but I can handle pretty much anything thrown at me.
-- 💡 **Fun Fact:** Ever wanted to see a flying pig with a machine gun, while also speaking fluent French? I can do that.
-- 💬 Ask me about **C#, C++, LuaU, Python, and Game Architecture**.
-- 📫 Reach out to me: **fabidevgames@gmail.com** or via Discord.
+- I specialize in backend scripting, including complex data saving, game logic, and anti-cheat systems.
+- I focus on clean game architecture and building scalable, maintainable codebases.
+- Feel free to ask me about C#, C++, LuaU, Python, and Roblox development.
+- Contact: **fabidevgames@gmail.com** or via Discord.
 
 ---
 
-### 🛠️ Languages and Tools
+### Frameworks & Packages
+
+I regularly utilize a variety of tools and libraries to build robust systems:
+- **Nevermore Engine**
+- **Roact**
+- **Maid**
+- **Promise**
+
+---
+
+### Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -28,17 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabideveloper&show_icons=true&theme=tokyonight&hide_border=true" alt="Fabi's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabideveloper&theme=tokyonight&hide_border=true" alt="Fabi's GitHub Streak" />
-</div>
-
----
-
-### 🔗 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://fabideveloper.github.io/" target="_blank">
