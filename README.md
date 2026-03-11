@@ -17,7 +17,7 @@
 ### Associated Projects & Clients
 
 I have developed backend systems and contributed to projects associated with:
-
+- **[DoBig](https://dobig.com/)**
 - **[Simple Bricks](https://simplebricks.com.au/)**
 - **[IX Studios](https://ixstudiodev.com/)**
 ---
